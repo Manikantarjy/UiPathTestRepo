@@ -1,0 +1,15 @@
+﻿{
+  "Name": "NewScreen",
+  "Type": "Screen",
+  "Id": "90Nxt64f10y02aW5Vvrl6Q",
+  "Reference": "pHBdt61ttECU-dl_A--B-g/90Nxt64f10y02aW5Vvrl6Q",
+  "ParentRef": "pHBdt61ttECU-dl_A--B-g/VGBF-2h34U-etFAc6t7v_g",
+  "Created": "2024-04-04T05:13:37.3481855Z",
+  "Updated": "2024-04-04T05:13:42.8627868Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

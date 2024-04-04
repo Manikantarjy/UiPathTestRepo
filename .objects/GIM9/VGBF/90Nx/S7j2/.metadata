@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Text 'Admin'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "S7j2dPv6yE6Zk8opCGZt5g",
+  "Reference": "pHBdt61ttECU-dl_A--B-g/S7j2dPv6yE6Zk8opCGZt5g",
+  "ParentRef": "pHBdt61ttECU-dl_A--B-g/90Nxt64f10y02aW5Vvrl6Q",
+  "Created": "2024-04-04T05:13:45.5829745Z",
+  "Updated": "2024-04-04T05:13:45.5829745Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
